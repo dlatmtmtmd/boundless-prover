@@ -107,7 +107,7 @@ curl -o broker.toml https://raw.githubusercontent.com/Stevesv1/boundless/refs/he
 print_success "Downloaded custom broker.toml"
 
 # Download custom compose.yml
-# curl -o compose.yml https://raw.githubusercontent.com/Stevesv1/boundless/refs/heads/main/compose.yml
+# curl -o compose.yml https://raw.githubusercontent.com/dlatmtmtmd/boundless/refs/heads/main/compose.yml
 # print_success "Downloaded custom compose.yml"
 
 # print_step "Downloading custom Rust source files..."
